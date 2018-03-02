@@ -1,0 +1,2 @@
+# mingmingtang
+my first repository
